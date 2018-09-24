@@ -1,9 +1,6 @@
 ---------------------------------------------------------
 --	"Cyclone V Block ROM Example"
 --
---	By:  Brian Christian
---	Date:  September 23, 2018
---
 --	Description:
 --		Simple interface to the Block ROM memory inside
 --		Cyclone V device.
